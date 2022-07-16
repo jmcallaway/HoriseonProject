@@ -8,6 +8,6 @@
   - **Sub**
     - _Sub Sub_
 
-[visible link](#)
+[Live deployment link](https://jmcallaway.github.io/HoriseonProject/)
 
 ![non visible](link/to/image/path)
